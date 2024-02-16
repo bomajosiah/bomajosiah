@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 👨🏽‍💻 I’m Boma, an aspiring AI/ML & Data Engineer
+- 🤔 I’m looking for help with internship opportunities
+- 👯 I’m looking to collaborate on data engineering projects
+- 📫 How to reach me: [hey@bmjsh.com](mailto:hey@bmjsh.com)
 <!--
 **bomajosiah/bomajosiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
