@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👨🏽‍💻 I’m Boma, an aspiring AI/ML & Data Engineer
-- 🤔 I’m looking for help with internship opportunities
+- 🌱 I’m on the lookout for internship opportunities
 - 👯 I’m looking to collaborate on data engineering projects
 - 📫 How to reach me: [hey@bmjsh.com](mailto:hey@bmjsh.com)
 <!--
